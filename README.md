@@ -1,7 +1,8 @@
 ### 👋 ¡Hola! Soy Andrés Ibáñez Ulloa  
 Desarrollador apasionado por Ruby on Rails, JavaScript y bases de datos. Me encanta construir aplicaciones eficientes y aprender nuevas tecnologías. 🚀
 
-![Contador de visitas](https://komarev.com/ghpvc/?username=abdulaba&color=green)
+![Contador de visitas](https://komarev.com/ghpvc/?username=abdulaba&color=green) ![GitHub Followers](https://img.shields.io/github/followers/abdulaba?style=social)
+
 
 
 ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=abdulaba&show_icons=true&theme=dark)
@@ -28,4 +29,3 @@ Desarrollador apasionado por Ruby on Rails, JavaScript y bases de datos. Me enca
 
 ![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=abdulaba&theme=github-dark)
 
-![GitHub Followers](https://img.shields.io/github/followers/abdulaba?style=social)
